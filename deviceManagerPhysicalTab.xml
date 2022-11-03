@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="TSBEC6XSMJA6OVLJ" />
+          </Key>
+        </key>
+        <name value="OnePlus DN2101" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="64e3f5b9" />
           </Key>
         </key>
