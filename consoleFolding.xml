@@ -6,10 +6,13 @@
         <option value="Accessing hidden field Landroid/app/LoadedApk" />
         <option value="Accessing hidden method" />
         <option value="Accessing hidden method Landroid/app/LoadedApk" />
+        <option value="cancelDraw" />
         <option value="Choreographer" />
+        <option value="FA" />
         <option value="studio.deploy" />
         <option value="StudioTransport" />
-        <option value="FA" />
+        <option value="updateAcquireFence" />
+        <option value="nativeRelease" />
       </list>
     </option>
   </component>
