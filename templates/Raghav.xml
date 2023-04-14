@@ -86,9 +86,8 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="todo" value="/// TODO: $Date$ $Statement$" description="Add todo to dart code" toReformat="true" toShortenFQNames="true">
+  <template name="todo" value="/// TODO: $Date$ -" description="Add todo to dart code" toReformat="true" toShortenFQNames="true">
     <variable name="Date" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="Statement" expression="" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="DART" value="true" />
     </context>
