@@ -87,8 +87,8 @@
     </context>
   </template>
   <template name="todo" value="/// TODO: $Date$ $Statement$" description="Add todo to dart code" toReformat="true" toShortenFQNames="true">
-    <variable name="Date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="Statement" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="Statement" expression="" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="DART" value="true" />
     </context>
