@@ -9,10 +9,12 @@
         <option value="cancelDraw" />
         <option value="Choreographer" />
         <option value="FA" />
+        <option value="GuiExtAuxCheckAuxPath" />
+        <option value="nativeRelease" />
         <option value="studio.deploy" />
         <option value="StudioTransport" />
         <option value="updateAcquireFence" />
-        <option value="nativeRelease" />
+        <option value="Service already running" />
       </list>
     </option>
   </component>
